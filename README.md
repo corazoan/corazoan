@@ -32,7 +32,7 @@
       </a>
     </td>
     <td>
-      <a href="https://twitter.com/_q1b_">
+      <a href="https://x.com/corazoanD">
         <img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> 
       </a>
     </td>
